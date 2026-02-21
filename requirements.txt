@@ -1,3 +1,5 @@
 requests
 colorama
 aiohttp
+aiogram
+python-telegram-bot
