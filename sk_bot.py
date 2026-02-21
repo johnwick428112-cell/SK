@@ -11,7 +11,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.filters import Command
 from aiogram.types import Message
 
-BOT_TOKEN = "8245356561:AAEpylYTe7jdZdwlZ1dzcRaRBs1AUXWot4I"
+BOT_TOKEN = "8245356561:AAHfKKHy_s-IC7-bauVCLfFKduqntaGYinU"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
@@ -287,3 +287,4 @@ async def main():
 
 if __name__ == '__main__':
     asyncio.run(main())
+
